@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to left, rgb(69, 53, 162), white);
+    background-attachment: fixed;
+}
+
+.container {
+    border: 1px solid white;
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    background-color: white;
+
+}
+
+
+
+.content1 {
+    margin: 50px 10px;
+}
+
+#btn {
+    width: 300px;
+    background: linear-gradient(to left, rgb(34, 9, 174), white);
+    padding: 13px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.user {
+    width: 230px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.text {
+  
+    font-size: 20px;
+}
